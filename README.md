@@ -26,8 +26,8 @@ Indisponivel até a proxima versão
 - **HTML5** – Estruturação semântica do conteúdo  
 - **CSS3** – Estilização moderna e responsiva  
 - **Google Fonts** – Fonte Roboto  
-- **Flexbox e Grid** – Layout flexível  
-- **Futuramente** –  Hospedado via Vercel
+- **Flexbox e Grid** – Layout flexível
+- Futuramente Hospedado via Vercel
 
 ---
 
