@@ -5,7 +5,8 @@
 ---
 
 ## 🔗 Acesse o site  
-https://nba-fun-hub.vercel.app/
+👉 [Clique aqui para visitar o site](https://nba-fun-hub.vercel.app/)
+
 
 ---
 
