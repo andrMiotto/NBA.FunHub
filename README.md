@@ -5,7 +5,8 @@
 ---
 
 ## 🔗 Acesse o site  
-Indisponivel até a proxima versão
+👉 [Clique aqui para visitar o site](https://nba-fun-hub.vercel.app/)
+
 
 ---
 
